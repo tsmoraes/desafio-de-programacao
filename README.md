@@ -1,4 +1,4 @@
-# Desafio Academia Capgeminia
+# DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI
 
 ![cover](logo-capgemini.png)
 
@@ -32,7 +32,7 @@ git clone https://github.com/tsmoraes/desafio-de-programacao.git
 
 1. Abra o projeto com a IDE [Eclipse](https://www.eclipse.org/downloads/).
 2. Baixe as dependências do projeto. 
-3. Clique com o botão esquerdo no projeto e selecione `Java Application` para executar a aplicação 
-ou `JUnit Test` para executar os testes.
+3. Clique com o botão esquerdo no projeto e selecione `Run As > Java Application` 
+para executar a aplicação ou `Run As > JUnit Test` para executar os testes.
    
 
