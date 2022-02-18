@@ -7,9 +7,9 @@ package questao1;
  * @author Thiago da Silva Moraes
  *
  *         Escreva um algoritmo que mostre na tela uma escada de tamanho n
- *         utilizando o caractere * e espaços. A base e altura da escada devem
- *         ser iguais ao valor de n. A última linha não deve conter nenhum
- *         espaço.
+ *         utilizando o caractere * e espaÃ§os. A base e altura da escada devem
+ *         ser iguais ao valor de n. A Ãºltima linha nÃ£o deve conter nenhum
+ *         espaÃ§o.
  * 
  */
 public class Escada {
@@ -29,7 +29,7 @@ public class Escada {
 		degraus = n;
 
 		for (int i = 1; i <= n; i++) {
-			for (int j = n - i; j >= 1; j--) // imprime os espaços
+			for (int j = n - i; j >= 1; j--) // imprime os espaÃ§os
 				System.out.print(" ");
 			for (int j = 1; j <= i; j++) // imprime os *
 				System.out.print("*");
@@ -37,6 +37,6 @@ public class Escada {
 
 		}
 
-		System.out.print(degraus);
+		//System.out.print(degraus);
 	}
 }
