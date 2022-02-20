@@ -28,11 +28,11 @@ Siga os seguintes passos para testar o projeto:
 git clone https://github.com/tsmoraes/desafio-de-programacao.git
 ```
 
-### Abrir abrir o projeto
+### Abrir o projeto
 
 1. Abra o projeto com a IDE [Eclipse](https://www.eclipse.org/downloads/).
 2. Baixe as dependências do projeto. 
-3. Clique com o botão esquerdo no projeto e selecione `Run As > Java Application` 
+3. Clique com o botão direito no projeto e selecione `Run As > Java Application` 
 para executar a aplicação ou `Run As > JUnit Test` para executar os testes.
    
 
