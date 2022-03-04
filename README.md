@@ -2,25 +2,17 @@
 
 ![cover](logo-capgemini.png)
 
-## :fire: Introdução
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=Este+projeto+eu+fiz+para+;que+ele+seja+avaliado+pela+;Academia+T%C3%A9cnica+Capgemini)](https://git.io/typing-svg)
 
-A Academia Técnica Capgemini é um Programa de Formação designado a capacitar futuros (as) colaboradores (as) para os 
-times de trabalho da empresa, Líder Global em tecnologia, terceirização e serviços de consultoria.
-
-A Academia Java Capgemini 2022 iniciará com o Processo Seletivo, que envolverá Teste de Raciocínio Lógico e um **Desafio
-de Programação**. 
-
-Esse projeto se trata com o processo do Desafio de Programação.
-
-## :toolbox: Ferramentas utilizadas
+## ✔ Ferramentas que eu utilizei
 
 - IDE: [Eclipse](https://www.eclipse.org/downloads/)
 - JUnit
 - Java 8
 
-## :test_tube: Como testar
+## ✔ Siga os passos abaixo para testar o projeto:
 
-Siga os seguintes passos para testar o projeto:
+
 
 ### Clone o projeto
 
